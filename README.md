@@ -1,6 +1,6 @@
 # SecureTicket – SEO-Oriented Static Website
 
-**Website:** https://secureticket.co.kr/
+**Website:** https://dundunticket.com
 
 SecureTicket is a **static HTML website** designed to study and implement
 **Google SEO–friendly information architecture** in a YMYL-related topic.
